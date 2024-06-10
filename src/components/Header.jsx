@@ -10,7 +10,7 @@ export default function Header() {
       </a>
       <div className='gap-4 flex items-center '>
         <a
-          href='https://bmc.link/smoljames'
+          href='https://buymeacoffee.com/mehannioui'
           target='_blank'
           className='text-slate-600 cursor-pointer'
           rel='noreferrer'>
